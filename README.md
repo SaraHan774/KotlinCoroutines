@@ -1,10 +1,10 @@
 ### Udemy Course
 
-- [x]  Coroutine Basics [lecture note](./lecture-notes/Coroutine%20Basics.md)
-- [x]  Android - Image Processing [lecture note](./lecture-notes/Coroutines%20and%20background%20image%20processing%20in%20Andr.md)
-- [x]  Retrofit and Coroutine [lecture note](./lecture-notes/Retrofit%20and%20Coroutines.md)
-- [x]  Room and Coroutine [lecture note](./lecture-notes/)
-- [x]  Asynchronous Flow [lecture note](./lecture-notes/Asynchronous%20Flow.md)
-- [x]  Android : Coroutines flow news ticker [lecture note](./lecture-notes/Android%20Coroutines%20flow%20news%20ticker.md)
-- [x]  Channels [lecture note](./lecture-notes/Channels.md)
-- [x]  Concurrency and shared state [lecture note](./lecture-notes/Concurrency%20and%20shared%20state.md)
+- [x]  Coroutine Basics [lecture note](./lecture-notes/Coroutine_Basics.pdf)
+- [x]  Android - Image Processing [lecture note](./lecture-notes/Coroutines_and_background_image_processing_in_Android.pdf)
+- [x]  Retrofit and Coroutine [lecture note](./lecture-notes/Retrofit_and_Coroutines_.pdf)
+- [x]  Room and Coroutine [lecture note](./lecture-notes/Room_and_Coroutines_.pdf)
+- [x]  Asynchronous Flow [lecture note](./lecture-notes/Asynchronous_Flow_.pdf)
+- [x]  Android : Coroutines flow news ticker [lecture note](./lecture-notes/Android__Coroutines_flow_news_ticker.pdf)
+- [x]  Channels [lecture note](./lecture-notes/Channels_.pdf)
+- [x]  Concurrency and shared state [lecture note](./lecture-notes/Concurrency_and_shared_state_.pdf)
